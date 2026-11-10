@@ -1,0 +1,5 @@
+- [x] Review SpendWise brief, confirm public sample-only MCP access, and enable Lovable Cloud.
+- [ ] Create and seed persistent demo spend, budget, and scenario records.
+- [ ] Build the professional SpendWise dashboard, spend management, budget management, and scenario editing UI.
+- [ ] Add six remote MCP tools and browser-local tools that use the same saved records.
+- [ ] Verify UI workflows, regression tests, preview logs, MCP manifest availability, and commit.
